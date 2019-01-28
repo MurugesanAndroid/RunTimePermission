@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RunTimePermission</string>
+
+    <string name="dialog_title">Multiple Permission</string>
+    <string name="dialog_message">This App need Multiple Permissions</string>
+    <string name="dialog_btn_pos">Grant</string>
+    <string name="dialog_btn_neg">Cancel</string>
+
+    <string name="toast_unable_to_get_permission">Unable to get Permission</string>
+    <string name="toast_permission_granted">Permission Granted</string>
+</resources>
